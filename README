@@ -1,0 +1,20 @@
+## Algos
+
+Hill climbing
+Simulated annealing
+Particle swarm optimisation
+
+## Turtles?
+
+Other turtles are available if you wanto try in another language e.g.
+http://www.nakov.com/blog/2016/02/14/turtle-graphics-net-csharp-open-source-library/
+
+
+## Usage
+
+Works in Python 2.7
+
+python into_bag -f=all
+
+will show chase each of the bags and approaches.
+
