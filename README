@@ -12,9 +12,9 @@ http://www.nakov.com/blog/2016/02/14/turtle-graphics-net-csharp-open-source-libr
 
 ## Usage
 
-Works in Python 2.7
+Works in Python 2.7 - will work in 3 if I remove all the prints!
 
 python into_bag -f=all
 
-will show chase each of the bags and approaches.
+will showcase each of the bags and approaches.
 
